@@ -42,7 +42,3 @@ Jupyter/Colab-ноутбук: Telegram-бот, который отвечает �
 
 - [Telegram](https://t.me/NikLyashenko)
 - Email: kolek.vip84@gmail.com
-
----
-
-_Проект реализован для практики по ML и Telegram API. Готов к развитию и доработке!_
